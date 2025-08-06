@@ -18,6 +18,11 @@ class PresetCatalogApp(QMainWindow):
         self.setWindowTitle("Preset Catalog, by Rafael Andrade")
         self.resize(800, 600)
         
+        # Definir o ícone da aplicação
+        icon_path = os.path.join(os.path.dirname(__file__), "PresetCatalog.ico")
+        if os.path.exists(icon_path):
+            self.setWindowIcon(QIcon(icon_path))
+        
         # Configuração para salvar preferências
         self.settings = QSettings("RafaelAndrade", "PresetCatalog")
         
