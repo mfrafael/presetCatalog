@@ -1,8 +1,8 @@
-# XMP Preset Manager for Adobe Lightroom
+# Preset Catalog for Adobe Lightroom
 
 ## Overview
 
-XMP Preset Manager is a tool designed to help photographers and editors efficiently organize Adobe Lightroom/Camera Raw XMP presets. It provides a simple interface to update cluster and group information in XMP files, making preset management more intuitive and structured in Lightroom.
+Preset Catalog is a tool designed to help photographers and editors efficiently organize Adobe Lightroom/Camera Raw XMP presets. It provides a simple interface to update cluster and group information in XMP files, making preset management more intuitive and structured in Lightroom.
 
 ## Key Features
 
