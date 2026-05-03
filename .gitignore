@@ -71,6 +71,12 @@ Thumbs.db
 build/
 dist/
 
+# AppImage build artifacts
+AppDir/
+*.AppImage
+appimagetool-*.AppImage
+PresetCatalog.png
+
 # Backup files
 *.bak
 *.backup
